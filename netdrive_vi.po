@@ -164,7 +164,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.cpp:527
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr "Hãy điền tên ổ đĩa"
+msgstr "Hãy điền tên ổ đĩa."
 
 #: ../../NetDriveUI/adddrive.cpp:535
 msgctxt "AddDrive|"
@@ -274,8 +274,8 @@ msgstr "VỀ"
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
-msgid "Đã cấp phép cho %1"
-msgstr ""
+msgid "Licensed to %1"
+msgstr "Đã cấp phép cho %1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
