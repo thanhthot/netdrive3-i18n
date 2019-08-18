@@ -1436,7 +1436,7 @@ msgstr "Thử lại không thành công."
 #: ../../NetDriveUI/uploadings.cpp:74
 msgctxt "Uploadings|"
 msgid "Failed to save as."
-msgstr "Thất bại khi lưu."
+msgstr "Lưu không thành công."
 
 #: ../../../ui_helper/oauth2/waiter.ui:14
 msgctxt "Waiter|"
